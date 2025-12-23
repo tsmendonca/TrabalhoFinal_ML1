@@ -1,0 +1,10 @@
+# ambientes
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# outputs grandes/gerados
+outputs/*.joblib
+outputs/*.pkl
+outputs/*.pickle
