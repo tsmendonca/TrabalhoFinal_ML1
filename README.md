@@ -3,6 +3,11 @@
 ## Visão geral
 Este projeto aborda um problema de regressão: prever o preço de venda de imóveis (`SalePrice`) a partir de características numéricas e categóricas do imóvel. O foco foi construir uma pipeline reprodutível, evitar vazamento de dados, comparar modelos e justificar a escolha final com validação cruzada.
 
+## Aluno 
+Thiago da Silva Mendonça 
+## Professor 
+Maurício Luiz Sobrinho 
+
 ---
 
 ## Dataset
